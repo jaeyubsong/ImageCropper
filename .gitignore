@@ -1,0 +1,6 @@
+output/
+input/
+*.jpg
+venv/
+
+!input/test.jpg

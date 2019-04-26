@@ -1,0 +1,5 @@
+certifi==2019.3.9
+editdistance==0.5.3
+numpy==1.16.3
+opencv-python==4.1.0.25
+tqdm==4.31.1
